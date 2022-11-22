@@ -1,11 +1,16 @@
 _repo: The-brothers-Van-Eyck_69306
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69306-h/images/img-cover.jpg
 creator:
   author:
     agent_name: Konody, P. G.
     gutenberg_agent_id: '55209'
     url: http://www.gutenberg.org/2009/agents/55209
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69306#The-brothers-Van-Eyck
 gutenberg_issued: '2022-11-07'
 identifiers:
   gutenberg: '69306'
